@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Nikhil Kumar Jha <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="75"></h1>
 
 <!--
 **NikhilKumarJha/NikhilKumarJha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 
 <p align = "center"> 
 <img src="https://github.com/NikhilKumarJha/NikhilKumarJha/apen-doretti-nicholas-dribble.gif" height="120em" />
-<img src="https://github.com/NikhilKumarJha/NikhilKumarJha/about-me-light-0x01.jpg" height="120em" />
+<img src="https://github.com/NikhilKumarJha/NikhilKumarJha/blob/main/AboutMe-light.png" height="120em" />
 </p>
 
 <!--

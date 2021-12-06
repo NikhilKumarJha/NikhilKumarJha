@@ -13,7 +13,7 @@ Hello there! I'm Nikhil Kumar Jha
 <br>
 💡 I'm currently pursuing B.Tech in Computer Science & Engineering 💡
 <br>
-👨‍💻 I love doing Competitive programming 👨‍💻
+👨‍💻 I enjoy Competitive programming and Problem solving 👨‍💻
 <br>
 📪 Drop me a mail at <a href = "mailto:nikhil94146@gmail.com">nikhil94146@gmail.com</a>. I will revert back as soon as I can 📭
 <!-- - <a href ="mailto:nikhil94146@gmail.com">![Gmail Badge](https://img.shields.io/badge/-nikhil94146@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikhil94146@gmail.com)</a> -->

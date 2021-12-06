@@ -1,4 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NikhilKumarJha&label=Profile%20views&color=0e75b6&style=flat" alt="NikhilKumarJha" /> </p>
+<p align ="center">
+### Hello there! I'm Nikhil Kumar Jha. 
+</p>
 
 <p align = "center"> 
 <img src="https://github.com/NikhilKumarJha/NikhilKumarJha/blob/main/pen-doretti-nicholas-dribble.gif" height="120em" />

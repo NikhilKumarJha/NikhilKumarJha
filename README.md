@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NikhilKumarJha&label=Profile%20views&color=0e75b6&style=flat" alt="NikhilKumarJha" /> </p>
 <p align ="center">
-### Hello there! I'm Nikhil Kumar Jha. 
+<h1>Hello there! I'm Nikhil Kumar Jha.</h1> 
 </p>
 
 <p align = "center"> 

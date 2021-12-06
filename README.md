@@ -8,17 +8,16 @@ Hello there! I'm Nikhil Kumar Jha
 <img src="https://github.com/NikhilKumarJha/NikhilKumarJha/blob/main/AboutMe-light.png" height="120em" />
 </p>
 
-<!--
-**NikhilKumarJha/NikhilKumarJha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align = "center">
+🔭 I love to explore new technologies 🔭
+<br>
+💡 I'm currently pursuing B.Tech in Computer Science & Engineering 💡
+<br>
+📪 Drop me a mail at <a href = "mailto:nikhil94146@gmail.com">nikhil94146@gmail.com</a>. I will revert back as soon as I can 📭
+<!-- - <a href ="mailto:nikhil94146@gmail.com">![Gmail Badge](https://img.shields.io/badge/-nikhil94146@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikhil94146@gmail.com)</a> -->
+</p>
 
-Here are some ideas to get you started:
+### Connect with me
+- 💬 Feel free to ask for any help in any of the above things, I will definitely try to help.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: Connect with me on [linkedin](https://www.linkedin.com/in/nikhil94146/) or 

@@ -16,4 +16,20 @@ Hello there! I'm Nikhil Kumar Jha
 📪 Drop me a mail at <a href = "mailto:nikhil94146@gmail.com">nikhil94146@gmail.com</a>. I will revert back as soon as I can 📭
 <!-- - <a href ="mailto:nikhil94146@gmail.com">![Gmail Badge](https://img.shields.io/badge/-nikhil94146@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikhil94146@gmail.com)</a> -->
 </p>
-[![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikhilKumarJha)](https://github.com/NikhilKumarJha/github-readme-stats)
+
+<br>
+<br>
+
+<!-- <p align = "center"> 
+  <img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/motion-doretti-nicolas-dribble.gif" height="120em" />
+  <img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/Github-stats-light-0x01.jpg" height="120em" />
+</p> -->
+
+
+<p align = "center">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NikhilKumarJha&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height = "150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NikhilKumarJha&hide=Jupyter%20Notebook&layout=compact&langs_count=7&theme=buefy"/>
+</p>
+
+<br>
+<br>

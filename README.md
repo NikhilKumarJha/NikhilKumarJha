@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikhil Kumar Jha <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="75"></h1>
+![](https://komarev.com/ghpvc/?username=NikhilKumarJha)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NikhilKumarJha&label=Profile%20views&color=0e75b6&style=flat" alt="NikhilKumarJha" /> </p>
 <!--

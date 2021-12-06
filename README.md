@@ -1,6 +1,10 @@
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NikhilKumarJha&label=Profile%20views&color=0e75b6&style=flat" alt="NikhilKumarJha" /> </p>
+
+<p align = "center"> 
+<img src="https://github.com/NikhilKumarJha/NikhilKumarJha/blob/main/assets/gifs/pen-doretti-nicholas-dribble.gif" height="120em" />
+<img src="https://github.com/NikhilKumarJha/NikhilKumarJha/blob/main/assets/imgs/about-me-light-0x01.jpg" height="120em" />
+</p>
+
 <!--
 **NikhilKumarJha/NikhilKumarJha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

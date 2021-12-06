@@ -15,6 +15,7 @@ Hello there! I'm Nikhil Kumar Jha
 <br>
 👨‍💻 I enjoy Sports Programming and Problem Solving 👨‍💻
 <br>
+<br>
 📪 Connect with me at <a href = "https://www.linkedin.com/in/nikhil94146/"><img src="https://img.shields.io/badge/-Nikhil%20Kumar%20Jha-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> or mail me at <a href = "mailto:nikhil94146@gmail.com"><img src="https://img.shields.io/badge/-nikhil94146@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>. 📭
 
 

@@ -11,7 +11,9 @@ Hello there! I'm Nikhil Kumar Jha
 <p align = "center">
 🔭 I love to explore new technologies 🔭
 <br>
+<br>
 💡 I'm currently pursuing B.Tech in Computer Science & Engineering 💡
+<br>
 <br>
 👨‍💻 I enjoy Sports Programming and Problem Solving 👨‍💻
 <br>

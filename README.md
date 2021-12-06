@@ -41,19 +41,9 @@ Hello there! I'm Nikhil Kumar Jha
       <td align="center"> <img src = "https://img.shields.io/badge/-Numpy-white?style=flat&logo=numpy&logoColor=00599C" \> </td>
     </tr>
     <tr>
-      <td align="center"> <img src = "https://img.shields.io/badge/-Pandas-white?style=flat&logo=pandas&logoColor=00599C" \> </td>
-      <td align="center"> <img src = "https://img.shields.io/badge/-Scipy-white?style=flat&logo=scipy" \> </td>
-      <td align="center"> <img src = "https://img.shields.io/badge/-Tableau-white?style=flat&logo=Tableau" \> </td>
-    </tr>
-    <tr>
       <td align="center"> <img src = "https://img.shields.io/badge/-HTML5-white?style=flat&logo=HTML5" \> </td>
       <td align="center"> <img src = "https://img.shields.io/badge/-CSS3-white?style=flat&logo=CSS3&logoColor=1572B6" \> </td>
-      <td align="center"> <img src = "https://img.shields.io/badge/-Bootstrap4-white?style=flat&logo=bootstrap&logoColor=563D7C" \> </td>
-    </tr>
-    <tr>
       <td align="center"> <img src = "https://img.shields.io/badge/-JavaScript-white?style=flat&logo=javascript" \> </td>
-      <td align="center"> <img src = "https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript" \> </td>
-      <td align="center"> <img src = "https://img.shields.io/badge/-Angular7-white?style=flat&logo=angular&logoColor=red" \> </td>
     </tr>
     <tr>
       <td align="center"> <img src = "https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql" \> </td>

@@ -20,4 +20,4 @@ Hello there! I'm Nikhil Kumar Jha
 ### Connect with me
 - 💬 Feel free to ask for any help in any of the above things, I will definitely try to help.
 
-- 📫 How to reach me: Connect with me on [linkedin](https://www.linkedin.com/in/nikhil94146/) or 
+- 📫 How to reach me: Connect with me on [linkedin](https://www.linkedin.com/in/nikhil94146/)

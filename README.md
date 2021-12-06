@@ -20,6 +20,14 @@ Hello there! I'm Nikhil Kumar Jha
 <br>
 <br>
 
+<p align = "center">
+  <img src="https://github.com/NikhilKumarJha/NikhilKumarJha/blob/main/Tech-stack-light-0x01.jpg" height="120em" />
+  <img src="https://github.com/NikhilKumarJha/NikhilKumarJha/blob/main/resp-dribble.gif" height="120em" />
+</p>
+
+<br>
+<br>
+
 <p align = "center"> 
   <img src="https://github.com/NikhilKumarJha/NikhilKumarJha/blob/main/motion-doretti-nicolas-dribble.gif" height="120em" />
   <img src="https://github.com/NikhilKumarJha/NikhilKumarJha/blob/main/Github-stats-light-0x01.jpg" height="120em" />
